@@ -1,7 +1,7 @@
 {
+  "homepage": "http://varun-brs.github.io/react-dictionary",
   "name": "react-dictionary",
   "version": "0.1.0",
-  "homepage": "http://varun-brs.github.io/react-dictionary/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
