@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buildriseshine/api/reactjs/dictionary/static/css/main.6c6679ac.css",
+    "main.js": "/buildriseshine/api/reactjs/dictionary/static/js/main.07bddc33.js",
+    "static/js/453.4e1fb39d.chunk.js": "/buildriseshine/api/reactjs/dictionary/static/js/453.4e1fb39d.chunk.js",
+    "index.html": "/buildriseshine/api/reactjs/dictionary/index.html",
+    "main.6c6679ac.css.map": "/buildriseshine/api/reactjs/dictionary/static/css/main.6c6679ac.css.map",
+    "main.07bddc33.js.map": "/buildriseshine/api/reactjs/dictionary/static/js/main.07bddc33.js.map",
+    "453.4e1fb39d.chunk.js.map": "/buildriseshine/api/reactjs/dictionary/static/js/453.4e1fb39d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c6679ac.css",
+    "static/js/main.07bddc33.js"
+  ]
+}
