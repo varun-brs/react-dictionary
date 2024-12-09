@@ -1,14 +1,14 @@
 import React, { useState, useContext } from "react";
-import { HttpGet } from "../core/store/httpHelper";
+// import { HttpGet } from "../core/store/httpHelper";
 import ReactAudioPlayer from "react-audio-player";
-// import { AppContext } from "../core/store/app-context";
+import { AppContext } from "../core/store/app-context";
 
 export const Home = () => {
   const [wordDetails, setWordDetails] = useState(null);
   const [noDefinitionFound, setNoDefinitionFound] = useState(null);
   const [wordAudio, setAudio] = useState(null);
 
-  //   const { HttpGet } = useContext(AppContext);
+  const { HttpGet } = useContext(AppContext);
 
   const getWordDetails = async (event) => {
     event.preventDefault();
